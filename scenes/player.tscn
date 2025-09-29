@@ -86,7 +86,7 @@ metadata/_edit_group_ = true
 
 [node name="anim" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_jyhfs")
-animation = &"jump"
+animation = &"idle"
 autoplay = "idle"
 
 [node name="collisor" type="CollisionShape2D" parent="."]
