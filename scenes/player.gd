@@ -25,5 +25,5 @@ func _physics_process(delta: float) -> void:
 	if position.y >= 400:
 		#position.y = -10
 		get_tree().reload_current_scene()
-	
+		
 	move_and_slide()
