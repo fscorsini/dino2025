@@ -37,7 +37,12 @@ func _physics_process(delta: float) -> void:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
 	
 	if position.y >= 400:
-		#position.y = -10
-		get_tree().reload_current_scene()
+		death()
 		
 	move_and_slide()
+	
+
+func death():
+	anim.play("hurt")
+	await get_tree().create_timer(2.0).timeout
+	get_tree().reload_current_scene()
