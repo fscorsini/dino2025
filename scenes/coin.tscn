@@ -1,5 +1,6 @@
-[gd_scene load_steps=13 format=3 uid="uid://bucpn5d0xrrdx"]
+[gd_scene load_steps=14 format=3 uid="uid://bucpn5d0xrrdx"]
 
+[ext_resource type="Script" uid="uid://c7wjdwmfg6jco" path="res://scenes/coin.gd" id="1_11l1o"]
 [ext_resource type="Texture2D" uid="uid://dtri1nfvlev7l" path="res://assets/itens/Common Pick-ups/Coin (16 x 16).png" id="1_rwqht"]
 [ext_resource type="Texture2D" uid="uid://28o4pk2i20vd" path="res://assets/itens/Effects/Bright_Sparkle (16 x 16).png" id="2_i64fm"]
 
@@ -77,12 +78,15 @@ radius = 4.0
 height = 14.0
 
 [node name="coin" type="Area2D"]
+script = ExtResource("1_11l1o")
 metadata/_edit_group_ = true
 
 [node name="anim" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_wnlwo")
 autoplay = "default"
-frame_progress = 0.837794
 
 [node name="collisor" type="CollisionShape2D" parent="."]
 shape = SubResource("CapsuleShape2D_jsmju")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="animation_finished" from="anim" to="." method="_on_anim_animation_finished"]
