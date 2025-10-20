@@ -1,9 +1,10 @@
-[gd_scene load_steps=7 format=4 uid="uid://ovcg3a2uc202"]
+[gd_scene load_steps=8 format=4 uid="uid://ovcg3a2uc202"]
 
 [ext_resource type="PackedScene" uid="uid://colppm0gkgq65" path="res://scenes/player.tscn" id="1_o5qli"]
 [ext_resource type="Texture2D" uid="uid://cv485o0r2rs28" path="res://assets/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png" id="2_0wfyh"]
 [ext_resource type="PackedScene" uid="uid://osammy15lltx" path="res://scenes/gate.tscn" id="3_sugp2"]
 [ext_resource type="PackedScene" uid="uid://bucpn5d0xrrdx" path="res://scenes/coin.tscn" id="4_jyhfs"]
+[ext_resource type="PackedScene" uid="uid://bxf261ir7j14m" path="res://scenes/treasure.tscn" id="5_tbgi4"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_sugp2"]
 texture = ExtResource("2_0wfyh")
@@ -118,3 +119,9 @@ position = Vector2(431, 126)
 
 [node name="coin7" parent="." instance=ExtResource("4_jyhfs")]
 position = Vector2(534, 126)
+
+[node name="treasure" parent="." instance=ExtResource("5_tbgi4")]
+position = Vector2(183, 104)
+
+[node name="treasure2" parent="." instance=ExtResource("5_tbgi4")]
+position = Vector2(339, 104)
