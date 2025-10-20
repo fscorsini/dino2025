@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxdepq21md850"
-path="res://.godot/imported/Wrapped_Presents (16 x 16).png-45b5cb273e59b11fcbacb6bc1ef1f679.ctex"
+path="res://.godot/imported/Wrapped_Presents (16 x 16).png-ef49c94eb72937d421a9bb4e51825b16.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Common Pick-ups/Wrapped_Presents (16 x 16).png"
-dest_files=["res://.godot/imported/Wrapped_Presents (16 x 16).png-45b5cb273e59b11fcbacb6bc1ef1f679.ctex"]
+source_file="res://assets/itens/Common Pick-ups/Wrapped_Presents (16 x 16).png"
+dest_files=["res://.godot/imported/Wrapped_Presents (16 x 16).png-ef49c94eb72937d421a9bb4e51825b16.ctex"]
 
 [params]
 

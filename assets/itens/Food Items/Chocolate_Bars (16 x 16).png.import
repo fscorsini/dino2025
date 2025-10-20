@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doawsu16ue21c"
-path="res://.godot/imported/Chocolate_Bars (16 x 16).png-4e432fca9024bbdd3bd71d481e200725.ctex"
+path="res://.godot/imported/Chocolate_Bars (16 x 16).png-77817b37610c260d20c691b81fcd991b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Food Items/Chocolate_Bars (16 x 16).png"
-dest_files=["res://.godot/imported/Chocolate_Bars (16 x 16).png-4e432fca9024bbdd3bd71d481e200725.ctex"]
+source_file="res://assets/itens/Food Items/Chocolate_Bars (16 x 16).png"
+dest_files=["res://.godot/imported/Chocolate_Bars (16 x 16).png-77817b37610c260d20c691b81fcd991b.ctex"]
 
 [params]
 

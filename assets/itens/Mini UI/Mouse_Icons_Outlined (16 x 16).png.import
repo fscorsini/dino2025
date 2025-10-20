@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6xrgspohouph"
-path="res://.godot/imported/Mouse_Icons_Outlined (16 x 16).png-ad09bbc25b42a898ac26be1802d44a33.ctex"
+path="res://.godot/imported/Mouse_Icons_Outlined (16 x 16).png-280046fbfedc8063fdfe882ca88bb18d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Mini UI/Mouse_Icons_Outlined (16 x 16).png"
-dest_files=["res://.godot/imported/Mouse_Icons_Outlined (16 x 16).png-ad09bbc25b42a898ac26be1802d44a33.ctex"]
+source_file="res://assets/itens/Mini UI/Mouse_Icons_Outlined (16 x 16).png"
+dest_files=["res://.godot/imported/Mouse_Icons_Outlined (16 x 16).png-280046fbfedc8063fdfe882ca88bb18d.ctex"]
 
 [params]
 

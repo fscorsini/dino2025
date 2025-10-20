@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bucpn5d0xrrdx"]
+
+[node name="coin" type="Area2D"]
+
+[node name="anim" type="AnimatedSprite2D" parent="."]
+
+[node name="collisor" type="CollisionShape2D" parent="."]

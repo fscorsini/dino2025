@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tmkevbxl5igy"
-path="res://.godot/imported/Grilled_Panini (16 x 16).png-709a984290d845a77a4795802cea114b.ctex"
+path="res://.godot/imported/Grilled_Panini (16 x 16).png-efc36bdcc91c8e7e0c905f2912172b34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Food Items/Grilled_Panini (16 x 16).png"
-dest_files=["res://.godot/imported/Grilled_Panini (16 x 16).png-709a984290d845a77a4795802cea114b.ctex"]
+source_file="res://assets/itens/Food Items/Grilled_Panini (16 x 16).png"
+dest_files=["res://.godot/imported/Grilled_Panini (16 x 16).png-efc36bdcc91c8e7e0c905f2912172b34.ctex"]
 
 [params]
 

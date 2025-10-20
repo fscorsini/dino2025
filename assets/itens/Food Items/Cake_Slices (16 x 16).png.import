@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7v1syesmabmw"
-path="res://.godot/imported/Cake_Slices (16 x 16).png-c36db04e432067c9f1cd2bc68db37a67.ctex"
+path="res://.godot/imported/Cake_Slices (16 x 16).png-d78257a195b76f60938f9751f422e6ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Food Items/Cake_Slices (16 x 16).png"
-dest_files=["res://.godot/imported/Cake_Slices (16 x 16).png-c36db04e432067c9f1cd2bc68db37a67.ctex"]
+source_file="res://assets/itens/Food Items/Cake_Slices (16 x 16).png"
+dest_files=["res://.godot/imported/Cake_Slices (16 x 16).png-d78257a195b76f60938f9751f422e6ac.ctex"]
 
 [params]
 

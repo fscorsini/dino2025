@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpetbjhxv8e4h"
-path="res://.godot/imported/Health_Kit (16 x 16).png-5bf64634f76404dfc8ec8acad73d5c18.ctex"
+path="res://.godot/imported/Health_Kit (16 x 16).png-56e8c1a36c4ff43c708c0cd593c198f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Common Pick-ups/Health_Kit (16 x 16).png"
-dest_files=["res://.godot/imported/Health_Kit (16 x 16).png-5bf64634f76404dfc8ec8acad73d5c18.ctex"]
+source_file="res://assets/itens/Common Pick-ups/Health_Kit (16 x 16).png"
+dest_files=["res://.godot/imported/Health_Kit (16 x 16).png-56e8c1a36c4ff43c708c0cd593c198f8.ctex"]
 
 [params]
 

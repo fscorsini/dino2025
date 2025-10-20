@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jvhl3daw5cl7"
-path="res://.godot/imported/Small_Coin (16 x 16).png-e10ab7b592fca0eefc6729b959740620.ctex"
+path="res://.godot/imported/Small_Coin (16 x 16).png-09f84d9ba96c38456db3c92ef7d50f68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mini FX, Items & UI/Common Pick-ups/Small_Coin (16 x 16).png"
-dest_files=["res://.godot/imported/Small_Coin (16 x 16).png-e10ab7b592fca0eefc6729b959740620.ctex"]
+source_file="res://assets/itens/Common Pick-ups/Small_Coin (16 x 16).png"
+dest_files=["res://.godot/imported/Small_Coin (16 x 16).png-09f84d9ba96c38456db3c92ef7d50f68.ctex"]
 
 [params]
 
